@@ -1,4 +1,5 @@
 # Wide Awake: A Mobile app prototype that predicts home fire and notifies the elderly and their carers when smoke/fire is detected
+
 This app serves as a warning alert system for future fires and allows users to prevent deaths or fire-related injuries from happening. It will be released on both iOS and Android.
 
 ## Motivation
