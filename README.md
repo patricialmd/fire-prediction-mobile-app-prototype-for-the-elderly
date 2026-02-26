@@ -24,71 +24,8 @@ background. Behind these considerations are reasons given by researchers which u
 |----------|-------------|
 | **Simplicity** | The design of the app is easy to understand, plain, use of minimum words as much as possible and the commands used are simple, not complex, to avoid confusion on the part of the user. For the elderly, usage of long-term memory which is linked to previous experiences is more helpful than short term memory which is related to discovering something different/new. Thus, user interface should apply graphics or functions that the elderly can relate to or identify with. Using pictures, photographs and a combination of both for menu icon for the elderly proved that even with decreasing ability to see, many old people are inclined to read the menu label so the menu label should use simple icons that could readily be understood by the user. Highlighted in this design are important menu buttons that could help the elderly as they are represented by simple familiar pictorial icons labelled with text in large font size appropriate for the elderly’s vision. Due to poor or declining visual ability, older adults prefer the following:  black and bigger font of text; colored text and graphics to highlight significant data; soft color which brings joy to the elderly using the application;  and clear and large graphics, buttons and icons so that senior citizens can click them error-free. |
 | **Learnability** | The user interface is designed based on the ability of the user to understand how the mobile phone functions/operates. A study had been conducted on how older people navigate mobile interfaces while they determine usability challenges at the same time. Results showed that the respondents/participants had better chances of understanding the contents rather than the menus and icons of the navigation design and this finding can be a valuable consideration in the development of elderly-friendly mobile application.  |
-| **Consistency** | The design of the user interface is dependable, meaning, it would not create any confusion when the elderly uses her mobile phone. In one study intended to find out the accessibility of social media mobile application interface for the elderly, results showed that what can be seen could easily be dealt with as compared with mental or intellectual issues (Chang et al.). Proposed guidelines by the research would focus on color schemes, size of font, space and button of app (Chang et al.). Cognitive issues still needed further study for the necessary guidelines (Chang et al.).  |
-| **Structure Principle** | The user interface is structured clearly, where similar/related things are arranged together and those that are not connected are not put together (Ji et al., 2006). Also, reliable models that are obvious and can easily be identified are used (Ji et al., 2006). Brightness, colour, and font are primarily considered in the design of the app since they influence the success and effortless smartphone usage of senior citizens  (Preeyanont, 2017). It need not be emphasized that as people grow old, they may have impaired eyesight or distorted vision; thus, viewing contents on the screen might take much longer time or even result in wrong interpretations (Preeyanont, 2017).|
+| **Consistency** | The design of the user interface is dependable, meaning, it would not create any confusion when the elderly uses her mobile phone. In one study intended to find out the accessibility of social media mobile application interface for the elderly, results showed that what can be seen could easily be dealt with as compared with mental or intellectual issues. Proposed guidelines by the research would focus on color schemes, size of font, space and button of app. Cognitive issues still needed further study for the necessary guidelines.  |
+| **Structure Principle** | The user interface is structured clearly, where similar/related things are arranged together and those that are not connected are not put together. Also, reliable models that are obvious and can easily be identified are used. Brightness, colour, and font are primarily considered in the design of the app since they influence the success and effortless smartphone usage of senior citizens. It need not be emphasized that as people grow old, they may have impaired eyesight or distorted vision; thus, viewing contents on the screen might take much longer time or even result in wrong interpretations.|
 
 Overall, I intend to create an app that can protect old people and spare them from injuries, near-death experiences and even death itself when the monster known as fire visits their homes.
 
-## References
-REFERENCES 
-ABDUL RAZAK, F., RAZAK, N., WAN ADNAN, W. & AHMAD, N. How simple is simple: our experience with older adult users.  ACM 
-International Conference Proceeding Series, 2013. ACM, 379-387. 
-
-ABDULLAH, N. & ABDUL HAMID, N. F. B. 2019. Interface design features of mobile application for senior citizens. Indonesian Journal of 
-Electrical Engineering and Computer Science, 14, 436. 
-
-AWAN, M., ALI, S., ALI, M., ABRAR, M. F., ULLAH, H. & KHAN, D. 2021. Usability Barriers for Elderly Users in Smartphone App Usage: An 
-Analytical Hierarchical Process-Based Prioritization. Scientific programming, 2021, 114. 
-
-AZIR REZHA, N., MAKSOM, Z. & NAIM, C. 2014. Tackling design issues on elderly smartphone interface design using activity centered design approach. ARPN J. Eng. Appl. Sci, 9, 1190-1196. 
-
-CASSIDY, P., MCCONNELL, N. & BOYCE, K. 2021. The older adult: Associated fire risks and current challenges for the development of future fire safety intervention strategies. Fire and materials, 45, 553-563. 
-
-CHANG, J. J., HILDAYAH BINTI ZAHARI, N. S. & CHEW, Y. H. The Design of Social Media Mobile Application Interface for the Elderly. 
-2018. IEEE, 104-108. 
-
-DODD, C., ATHAUDA, R. & ADAM, M. 2017. Designing user interfaces for the elderly: a systematic literature review. 
-
-FIRE GUARD. n.d. https://apps.apple.com/gb/app/fireguard/id1097475653 [Accessed]. 
-
-GOOGLE NEST. n.d. Available: Available: https://play.google.com/store/apps/details?id=com.nest.android&hl=en_AU&gl=US [Accessed]. 
-
-HOEHLE, H., ALJAFARI, R. & VENKATESH, V. 2016. Leveraging Microsoft׳s mobile usability guidelines: Conceptualizing and developing 
-scales for mobile application usability. International journal studies of human-computer studies, 89, 35-53. 
-
-JI, Y. G., PARK, J. H., LEE, C. & YUN, M. H. 2006. A Usability Checklist for the Usability Evaluation of Mobile Phone User Interface. International journal of human-computer interaction, 20, 207-231. 
-
-KAREMAKER, M., TEN HOOR, G. A., HAGEN, R. R., VAN SCHIE, C. H. M., BOERSMA, K. & RUITER, R. A. C. 2021. Elderly about home fire 
-safety: A qualitative study into home fire safety knowledge and behaviour. Fire safety journal, 124, 103391. 
-
-LEUNG, R., MCGRENERE, J. & GRAF, P. 2011. Agerelated differences in the initial usability of mobile device icons. Behaviour & information technology, 30, 629-642. 
-
-LI, Q. & LUXIMON, Y. 2020. Older adults' use of mobile device: usability challenges while navigating various interfaces. Behaviour & 
-information technology, 39, 837-861. 
-
-LORENZ, A. & OPPERMANN, R. 2009. Mobile health monitoring for the elderly: Designing for diversity. Pervasive and mobile computing, 5, 
-478-495. 
-
-NORMAN, D. A. 1995. The psychopathology of everyday things. Readings in Human–Computer Interaction. Elsevier.
-
-PREEYANONT, S. 2017. User Interface on Smartphone for Elderly Users. International journal of automation and smart technology, 7, 147-155. 
-
-RESTYANDITO, KURNIAWAN, E. & WIDAGDO, T. M. M. Mobile Menu Representation for Elderly. Cham: Springer International Publishing. 
-
-SALMAN, H. M., WAN AHMAD, W. F. & SULAIMAN, S. 2022. A design framework of a smartphone user interface for elderly users. 
-Universal access in the information society. 
-
-SAPONARA, S., ELHANASHI, A. & GAGLIARDI, A. 2021. Real-time video fire/smoke detection based on CNN in antifire surveillance systems. 
-Journal of real-time image processing, 18, 889-900. 
-
-SNUG SAFE. n.d. Available: https://www.snugsafe.com/ [Accessed].
-
-SNUG SAFETY. n.d. Available: https://play.google.com/store/apps/details?id=snugsafety.com.snugsafety&hl=en_AU&gl=US 
-[Accessed]. 
-
-SULAIMAN, S. & SOHAIMI, I. S. An investigation to obtain a simple mobile phone interface for older adults. 2010. IEEE, 1-4. 
-
-YUSOF, M. F. M., ROMLI, N. & YUSOF, M. F. M. 2014. Design for elderly friendly: Mobile phone application and design that suitable for elderly. International Journal of Computer Applications, 95. 
-
-ZIEFLE, M. & BAY, S. 2006. How to overcome disorientation in mobile phone menus: A comparison of two different types of navigation 
-aids. Human-Computer Interaction, 21, 393-433.
