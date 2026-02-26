@@ -4,8 +4,9 @@ This was designed as a university project with a focus on elderly-centred UI/UX 
 ## I. Motivation
 Senior citizens whose ages are 60 and above have higher risk of injury or death from home fires due to poor health, whether mental or physical, or other behavioral reasons. While smartphones can help, they are usually designed for younger people. Fire alarms in the senior citizens' homes should be working properly and installed in their living room or bedroom where fires usually happen to be useful to them. Wide awake was designed to bridge this gap, a fire prediction mobile app that detects smoke and fire in real-time and immediately alerts the elderly and their carers.
 
-The **features of the Wide Awake app** are the following: 
-|------------|------------|
+## II. **Features of the app** 
+| Feature | Description |
+|---------|-------------|
 | **Fire-and-smoke-detection** | This is based on video camera through the use of YOLOv2 model with Convolutional Neural Network that has a faster speed in image processing and sends real-time alert to the elderlies, their carers, and the fire emergency department if the fire or smoke detected is not yet made known to them by the elderly for more than 2 minutes since the fire/smoke started. |
 | **Voice command** | This feature can be activated on the Settings by the elderly to alert them using an alarm sound and voice that there is a fire/smoke in their house. |
 | **Audio detection** | This feature detects sound of something being burned. |
