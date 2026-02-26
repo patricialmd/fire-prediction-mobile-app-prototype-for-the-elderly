@@ -9,12 +9,13 @@ Senior citizens aged 60 and above are at a greater risk of injury or death from 
 To design a home-fire prediction smartphone app for the elderly using sensor and camera aided by Artificial Intelligence to protect the elderly from fires in their homes.  
 
 ## III. Tools Used
-## III. Tools Used
-![JustInMind](https://img.shields.io/badge/JustInMind-6B4FBB?style=for-the-badge&logoColor=white) — wireframing and prototyping
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) — documentation
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) — presentation
+| Tool | Purpose |
+|------|---------|
+| ![JustInMind](https://img.shields.io/badge/JustInMind-6B4FBB?style=for-the-badge&logoColor=white) | Wireframing and prototyping |
+| ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) | Documentation |
+| ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) | Presentation |
 
-## IV. **Features of the app** 
+## IV. Features of the App
 | Feature | Description |
 |---------|-------------|
 | **Fire-and-smoke-detection** | This is based on video camera through the use of YOLOv2 model with Convolutional Neural Network that has a faster speed in image processing and sends real-time alert to the elderlies, their carers, and the fire emergency department if the fire or smoke detected is not yet made known to them by the elderly for more than 2 minutes since the fire/smoke started. |
