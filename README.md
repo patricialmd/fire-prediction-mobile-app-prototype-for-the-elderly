@@ -9,9 +9,9 @@ Senior citizens aged 60 and above are at a greater risk of injury or death from 
 To design a home-fire prediction smartphone app for the elderly using sensor and camera aided by Artificial Intelligence to protect the elderly from fires in their homes.  
 
 ### III. Tools Used
-![JustInMind](https://img.shields.io/badge/JustInMind-FF4B4B?style=for-the-badge&logoColor=white)- for wireframing and prototyping
+![JustInMind](https://img.shields.io/badge/JustInMind-6B4FBB?style=for-the-badge&logoColor=white) - for wireframing and prototyping
 
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)- for documentation
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) - for documentation
   
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)- for presentation
 
