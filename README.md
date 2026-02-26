@@ -1,4 +1,5 @@
-# Wide Awake: Prototype of a mobile app that predicts home fire and notifies the elderly and their carers when smoke/fire is detected
+# Fire Prediction mobile app prototype for the elderly 
+![
 This was designed as a university project with a focus on elderly-centred UI/UX design. This app serves as a warning alert system for future fires and allows users to prevent deaths or fire-related injuries from happening. 
 
 ## I. Motivation
