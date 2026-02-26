@@ -33,16 +33,16 @@ background. Behind these considerations are reasons given by researchers which u
 |----------|---------------|-----------------------|----------------------------|
 | **Scenario 1: Fire Alert - Real Fire** | • Clear and visible icons, fonts, buttons for menu components<br> • Use of proper color (gray background, red for fire)<br> • Readable texts | Insightful and simple icons, menus, and content | Elderly are able to know where they are located in the app |
 | **Scenario 2: Fire Alert - False Alarm** | • Familiar icons, fonts, and buttons for menu components<br> • Use of proper color (gray background, red for fire, blue for safety)<br> • Readable texts | Texts are easily understood | Easy to navigate |
-| **Scenario 3:Daily Check-in Feature** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Texts are easily understood | This feature creates a habit for the senior citizens to respond to the daily customised questions |
+| **Scenario 3: Daily Check-in Feature** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Texts are easily understood | This feature creates a habit for the senior citizens to respond to the daily customised questions |
 | **Scenario 4: Fire Risk Assessment & Prevention Tips** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Assessments and fire tips are easily understood | Easy to navigate using the buttons such as back, next, save, modify, and the prevention tip button |
 
 ## VI. Methodology, Implementation, and Result
 ### A. **Think Aloud Method**
--A simple method and it does not require so much expertise.
--It provides important insight and it can present clearly how the system actually works by mere observation and a few questions.
--It is a cheap process.
--There would be no problem in the availability of participants and collection of sample size  as  there are many elderly to choose from to be a part of the sample population at present.
--The goal of the evaluation method is to assess the ability of the user to understand the tasks/messages given by the app and how well she could comply with them.
+* A simple method and it does not require so much expertise.
+* It provides important insight and it can present clearly how the system actually works by mere observation and a few questions.
+* It is a cheap process.
+* There would be no problem in the availability of participants and collection of sample size  as  there are many elderly to choose from to be a part of the sample population at present.
+* The goal of the evaluation method is to assess the ability of the user to understand the tasks/messages given by the app and how well she could comply with them.
 
 ### B. Implementation 
 1. The tasks that users are required to do are presented on the interface in big letters, big and familiar fonts, and colors used are not glaring so as not to hurt the elderly’s eyes or poor vision.
