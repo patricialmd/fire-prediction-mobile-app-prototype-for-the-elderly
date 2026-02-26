@@ -5,12 +5,13 @@ This was designed as a university project with a focus on elderly-centred UI/UX 
 Senior citizens whose ages are 60 and above have higher risk of injury or death from home fires due to poor health, whether mental or physical, or other behavioral reasons. While smartphones can help, they are usually designed for younger people. Fire alarms in the senior citizens' homes should be working properly and installed in their living room or bedroom where fires usually happen to be useful to them. Wide awake was designed to bridge this gap, a fire prediction mobile app that detects smoke and fire in real-time and immediately alerts the elderly and their carers.
 
 The **features of the Wide Awake app** are the following: 
-- **Fire-and-smoke-detection** which is based on video camera through the use of YOLOv2 model with Convolutional Neural Network that has a faster speed in image processing (Saponara et al., 2021) and sends real-time alert to the elderlies, their carers, and the fire emergency department if the fire or smoke detected is not yet made known to them by the elderly for more than 2 minutes since the fire/smoke started;
-- **Voice command** feature can be activated on the Settings by the elderly to alert them using an alarm sound and voice that there is a fire/smoke in their house,
-- **Audio detection** feature detects sound of something being burned. This is similar to Google Nest feature (Google Nest, n.d.);
-- **Global positioning statement (GPS)** - tracks the  location of the elderly;
-- **Messaging feature** - sends the elderly six customised fire related questions per day to know their condition inside their homes. This is like the Snug Safety app feature (Snug Safe, n.d., Snug Safety, n.d.); and
-- **Fire risk assessment** (similar to Fire Guard app feature (Fire Guard, n.d.)) and **prevention tips** for evaluating their homes and pointers on how to avoid fire.
+|------------|------------|
+| **Fire-and-smoke-detection** | This is based on video camera through the use of YOLOv2 model with Convolutional Neural Network that has a faster speed in image processing and sends real-time alert to the elderlies, their carers, and the fire emergency department if the fire or smoke detected is not yet made known to them by the elderly for more than 2 minutes since the fire/smoke started. |
+| **Voice command** | This feature can be activated on the Settings by the elderly to alert them using an alarm sound and voice that there is a fire/smoke in their house. |
+| **Audio detection** | This feature detects sound of something being burned. |
+| **Global positioning statement (GPS)** | |This tracks the  location of the elderly. |
+| **Messaging feature** | This feature sends the elderly six customised fire related questions per day to know their condition inside their homes. |
+| **Fire risk assessment** and **prevention tips** | Used for evaluating their homes and pointers on how to avoid fire. |
 
 Overall, this project aims to design a home-fire prediction smartphone app for the elderly using sensor and camera aided by Artificial Intelligence to protect the elderly from fires in their homes.  
 
