@@ -45,23 +45,23 @@ background. Behind these considerations are reasons given by researchers which u
 
 ## VII. Methodology, Implementation and Result
 ### 7.1 Method: "Think Aloud Method"
-* A simple method and it does not require so much expertise.
-* It provides important insight and it can present clearly how the system actually works by mere observation and a few questions.
-* It is a cheap process.
-* There would be no problem in the availability of participants and collection of sample size  as  there are many elderly to choose from to be a part of the sample population at present.
-* The goal of the evaluation method is to assess the ability of the user to understand the tasks/messages given by the app and how well she could comply with them.
+7.1.1 A simple method and it does not require so much expertise.
+7.1.2 It provides important insight and it can present clearly how the system actually works by mere observation and a few questions.
+7.1.3 It is a cheap process.
+7.1.4 There would be no problem in the availability of participants and collection of sample size  as  there are many elderly to choose from to be a part of the sample population at present.
+7.1.5 The goal of the evaluation method is to assess the ability of the user to understand the tasks/messages given by the app and how well she could comply with them.
 
 ### 7.2 Implementation 
-1. The tasks that users are required to do are presented on the interface in big letters, big and familiar fonts, and colors used are not glaring so as not to hurt the elderly’s eyes or poor vision.
-2. While the user is doing her task, she is being observed.
-3. She is asked to explain what she is doing and the reason why she is doing such tasks.
-4. She has to describe what she thinks is happening.
+7.2.1 The tasks that users are required to do are presented on the interface in big letters, big and familiar fonts, and colors used are not glaring so as not to hurt the elderly’s eyes or poor vision.
+7.2.2 While the user is doing her task, she is being observed.
+7.2.3 She is asked to explain what she is doing and the reason why she is doing such tasks.
+7.2.4 She has to describe what she thinks is happening.
 
 ### 7.3 Result
-1. The comments/observations/findings are noted by the researcher/evaluator. 
-2. Performance of a task is successful when the user does exactly what the message/situation demands.
-3. The evaluation does not only get feedback but also measures the efficiency and usability of the Wide Awake app. 
-4. Compared with other off-the shelf products, the Wide Awake app can compete with other apps in the market especially because it is designed to keep the elderly safe from fire in their homes. It is noteworthy to say that the elderly’s needs and requirements were considered in the creation of the app.
+7.3.1 The comments/observations/findings are noted by the researcher/evaluator. 
+7.3.2 Performance of a task is successful when the user does exactly what the message/situation demands.
+7.3.3 The evaluation does not only get feedback but also measures the efficiency and usability of the Wide Awake app. 
+7.3.4 Compared with other off-the shelf products, the Wide Awake app can compete with other apps in the market especially because it is designed to keep the elderly safe from fire in their homes. It is noteworthy to say that the elderly’s needs and requirements were considered in the creation of the app.
 
 ## VIII. Limitation and Conclusion
 ### 8.1 Limitation
