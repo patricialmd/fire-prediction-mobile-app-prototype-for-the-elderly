@@ -31,10 +31,10 @@ background. Behind these considerations are reasons given by researchers which u
 ## V. Scenarios and Wireframe Design
 | Scenario | Visual Design | Ease of Understanding | Navigation and Interaction |
 |----------|---------------|-----------------------|----------------------------|
-| **Scenario 1: Fire Alert - Real Fire** | --Clear and visible icons, fonts, buttons for menu components. --Use of proper color (gray background, red for fire) --Readable texts | Insightful and simple icons, menus, and content | Elderly are able to know where they are located in the app |
-| **Scenario 2: Fire Alert - False Alarm** | -Familiar icons, fonts, and buttons for menu components. -Use of proper color (gray background, red for fire, blue for safety) -Readable texts | Texts are easily understood | Easy to navigate |
-| **Scenario 3:Daily Check-in Feature** | -Familiar icons, fonts, and buttons for menu components -Use of Proper color (gray background, blue for safety) -Readable texts | Texts are easily understood | This feature creates a habit for the senior citizens to respond to the daily customised questions |
-| **Scenario 4: Fire Risk Assessment & Prevention Tips** | -Familiar icons, fonts, and buttons for menu components -Use of Proper color (gray background, blue for safety) -Readable texts | Assessments and fire tips are easily understood | Easy to navigate using the buttons such as back, next, save, modify, and the prevention tip button |
+| **Scenario 1: Fire Alert - Real Fire** | • Clear and visible icons, fonts, buttons for menu components<br> • Use of proper color (gray background, red for fire)<br> • Readable texts | Insightful and simple icons, menus, and content | Elderly are able to know where they are located in the app |
+| **Scenario 2: Fire Alert - False Alarm** | • Familiar icons, fonts, and buttons for menu components<br> • Use of proper color (gray background, red for fire, blue for safety)<br> • Readable texts | Texts are easily understood | Easy to navigate |
+| **Scenario 3:Daily Check-in Feature** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Texts are easily understood | This feature creates a habit for the senior citizens to respond to the daily customised questions |
+| **Scenario 4: Fire Risk Assessment & Prevention Tips** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Assessments and fire tips are easily understood | Easy to navigate using the buttons such as back, next, save, modify, and the prevention tip button |
 
 ## VI. Methodology, Implementation, and Result
 ### A. **Think Aloud Method**
