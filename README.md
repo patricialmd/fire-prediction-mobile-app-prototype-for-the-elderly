@@ -1,4 +1,4 @@
-# Fire Prediction mobile app prototype for the elderly 
+# Fire Prediction Mobile App Prototype for the Elderly 
 ![](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/Wide%20Awake%20.png)
 This was designed as a university project with a focus on elderly-centred UI/UX design. This app serves as a warning alert system for future fires and allows users to prevent deaths or fire-related injuries from happening. 
 
@@ -31,5 +31,34 @@ background. Behind these considerations are reasons given by researchers which u
 ## V. Scenarios and Wireframe Design
 | Scenario | Visual Design | Ease of Understanding | Navigation and Interaction |
 |----------|---------------|-----------------------|----------------------------|
-| **Scenario 1: Fire Alert - Real Fire** | - Clear and visible icons, fonts, buttons for menu components. - Use of proper color (gray background, red for fire) - Readable texts | Insightful and simple icons, menus, and content | Elderly are able to know where they are located in the app |
-| **Scenario 2: Fire Alert - False Alarm** | - Familiar icons, fonts, and buttons for menu components. - Use of proper color (gray background, red for fire, blue for safety) - Readable texts | Texts are easily understood | Easy to navigate |
+| **Scenario 1: Fire Alert - Real Fire** | -Clear and visible icons, fonts, buttons for menu components. -Use of proper color (gray background, red for fire) -Readable texts | Insightful and simple icons, menus, and content | Elderly are able to know where they are located in the app |
+| **Scenario 2: Fire Alert - False Alarm** | -Familiar icons, fonts, and buttons for menu components. -Use of proper color (gray background, red for fire, blue for safety) -Readable texts | Texts are easily understood | Easy to navigate |
+| **Scenario 3:Daily Check-in Feature** | -Familiar icons, fonts, and buttons for menu components -Use of Proper color (gray background, blue for safety) -Readable texts | Texts are easily understood | This feature creates a habit for the senior citizens to respond to the daily customised questions |
+| **Scenario 4: Fire Risk Assessment & Prevention Tips** | -Familiar icons, fonts, and buttons for menu components -Use of Proper color (gray background, blue for safety) -Readable texts | Assessments and fire tips are easily understood | Easy to navigate using the buttons such as back, next, save, modify, and the prevention tip button |
+
+## VI. Methodology, Implementation, and Result
+### A. **Think Aloud Method**
+-A simple method and it does not require so much expertise.
+-It provides important insight and it can present clearly how the system actually works by mere observation and a few questions.
+-It is a cheap process.
+-There would be no problem in the availability of participants and collection of sample size  as  there are many elderly to choose from to be a part of the sample population at present.
+-The goal of the evaluation method is to assess the ability of the user to understand the tasks/messages given by the app and how well she could comply with them.
+
+### B. Implementation 
+1. The tasks that users are required to do are presented on the interface in big letters, big and familiar fonts, and colors used are not glaring so as not to hurt the elderly’s eyes or poor vision.
+2. While the user is doing her task, she is being observed.
+3. She is asked to explain what she is doing and the reason why she is doing such tasks.
+4. She has to describe what she thinks is happening.
+
+### C. Result
+1. The comments/observations/findings are noted by the researcher/evaluator. 
+2. Performance of a task is successful when the user does exactly what the message/situation demands.
+3. The evaluation does not only get feedback but also measures the efficiency and usability of the Wide Awake app. 
+4. Compared with other off-the shelf products, the Wide Awake app can compete with other apps in the market especially because it is designed to keep the elderly safe from fire in their homes. It is noteworthy to say that the elderly’s needs and requirements were considered in the creation of the app.
+
+## VII. Limitation and Conclusion
+### Limitation
+The app is a prototype and has not beed tested at scale. Researchers and future technology can further improve it to make it more robust and worthwhile for elderly users. 
+
+### Conclusion
+The **Wide Awake app** was designed with the elderly's needs and requirements at its core like clear simple language shown in big letters, big familiar fonts, and colors that are easy on declining vision. The benefits expected from the app are valid and measurable, and the findings can be generalised as they are common in everyday life and technological advances have come so far in seeking a fire-hazard free environment for the elderly. As technology continues to advance, apps like Wide Awake represent a meaningful step toward a safer, fire-hazard free environment for the elderly.
