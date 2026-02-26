@@ -2,7 +2,7 @@
 
 This app serves as a warning alert system for future fires and allows users to prevent deaths or fire-related injuries from happening. It will be released on both iOS and Android.
 
-## Motivation
+## I. Motivation
 The primary motivation behind Wide Awake app is the fire safety of the elderly. Should fires occur in their homes, older people whose ages range from 60 years or more (Cassidy et al., 2021, Salman et al., 2022) have greater possibilities of succumbing to death or having injuries due to poor health, whether mental or physical, or other behavioral reasons (Karemaker et al., 2021). It is therefore of paramount importance to maintain safety measures that can effectively help the elderly avoid death or injury by fire in their own houses (Karemaker et al., 2021). To be useful to senior citizens, fire alarms in their homes should be working properly and installed in the living room or bedroom where fires usually happen (Cassidy et al., 2021). Smartphones can help the elderly but they are usually designed for younger people; thus, senior citizens may have difficulty in navigating/using the user interface of such gadgets (Awan et al., 2021). The elderly can be confused and/or baffled by new technologies due to age-related problems, physical abilities, memory decline, mental models, cognitive or sensory functions, and the design of smartphone apps may not have considered their needs or requirements (Awan et al., 2021). 
 
 The **features of the Wide Awake app** are the following: 
