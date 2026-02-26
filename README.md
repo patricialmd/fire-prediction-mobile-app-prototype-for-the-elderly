@@ -8,7 +8,13 @@ Senior citizens aged 60 and above are at a greater risk of injury or death from 
 ## II. Goal
 To design a home-fire prediction smartphone app for the elderly using sensor and camera aided by Artificial Intelligence to protect the elderly from fires in their homes.  
 
-## III. **Features of the app** 
+### III. Tools Used
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+**Prototyping:** JustInMind
+
+## IV. **Features of the app** 
 | Feature | Description |
 |---------|-------------|
 | **Fire-and-smoke-detection** | This is based on video camera through the use of YOLOv2 model with Convolutional Neural Network that has a faster speed in image processing and sends real-time alert to the elderlies, their carers, and the fire emergency department if the fire or smoke detected is not yet made known to them by the elderly for more than 2 minutes since the fire/smoke started. |
@@ -18,7 +24,7 @@ To design a home-fire prediction smartphone app for the elderly using sensor and
 | **Messaging feature** | This feature sends the elderly six customised fire related questions per day to know their condition inside their homes. |
 | **Fire risk assessment** and **prevention tips** | Used for evaluating their homes and pointers on how to avoid fire. |
 
-## IV. Design Rationale
+## V. Design Rationale
 This project intends to make the mobile application elderly-friendly; thus, matching the app’s design interface with the elderly’s needs, requirements, or expectations. Their preferences on what should appear on the user interface cannot be ignored. Such matters include: the length and size of the text; graphics; kinds, locations and size of icons; and color schemes for contents and 
 background. Behind these considerations are reasons given by researchers which usually point to older people’s mental and physical state including their poor or failing vision due to old age.  The following elements are used in Wide Awake’s implementation: 
 | Elements | Description |
@@ -28,7 +34,7 @@ background. Behind these considerations are reasons given by researchers which u
 | **Consistency** | The design of the user interface is dependable, meaning, it would not create any confusion when the elderly uses her mobile phone. In one study intended to find out the accessibility of social media mobile application interface for the elderly, results showed that what can be seen could easily be dealt with as compared with mental or intellectual issues. Proposed guidelines by the research would focus on color schemes, size of font, space and button of app. Cognitive issues still needed further study for the necessary guidelines.  |
 | **Structure Principle** | The user interface is structured clearly, where similar/related things are arranged together and those that are not connected are not put together. Also, reliable models that are obvious and can easily be identified are used. Brightness, colour, and font are primarily considered in the design of the app since they influence the success and effortless smartphone usage of senior citizens. It need not be emphasized that as people grow old, they may have impaired eyesight or distorted vision; thus, viewing contents on the screen might take much longer time or even result in wrong interpretations.|
 
-## V. Scenarios and Wireframe Design
+## VI. Scenarios and Wireframe Design
 | Scenario | Visual Design | Ease of Understanding | Navigation and Interaction |
 |----------|---------------|-----------------------|----------------------------|
 | **Scenario 1: Fire Alert - Real Fire** | • Clear and visible icons, fonts, buttons for menu components<br> • Use of proper color (gray background, red for fire)<br> • Readable texts | Insightful and simple icons, menus, and content | Elderly are able to know where they are located in the app |
@@ -36,7 +42,7 @@ background. Behind these considerations are reasons given by researchers which u
 | **Scenario 3: Daily Check-in Feature** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Texts are easily understood | This feature creates a habit for the senior citizens to respond to the daily customised questions |
 | **Scenario 4: Fire Risk Assessment & Prevention Tips** | • Familiar icons, fonts, and buttons for menu components<br> • Use of Proper color (gray background, blue for safety)<br> • Readable texts | Assessments and fire tips are easily understood | Easy to navigate using the buttons such as back, next, save, modify, and the prevention tip button |
 
-## VI. Methodology, Implementation and Result
+## VII. Methodology, Implementation and Result
 ### Think Aloud Method
 * A simple method and it does not require so much expertise.
 * It provides important insight and it can present clearly how the system actually works by mere observation and a few questions.
@@ -56,7 +62,7 @@ background. Behind these considerations are reasons given by researchers which u
 3. The evaluation does not only get feedback but also measures the efficiency and usability of the Wide Awake app. 
 4. Compared with other off-the shelf products, the Wide Awake app can compete with other apps in the market especially because it is designed to keep the elderly safe from fire in their homes. It is noteworthy to say that the elderly’s needs and requirements were considered in the creation of the app.
 
-## VII. Limitation and Conclusion
+## VIII. Limitation and Conclusion
 ### Limitation
 The app is a prototype and has not beed tested at scale. Researchers and future technology can further improve it to make it more robust and worthwhile for elderly users. 
 
