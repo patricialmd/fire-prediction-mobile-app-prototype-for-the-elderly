@@ -1,5 +1,5 @@
 # Fire Prediction Mobile App Prototype for the Elderly 
-![](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/Wide%20Awake%20.png)
+![](https://github.com/patricialmd/wide-awake-elderly-prototype/blob/main/wide-awake-banner.png)
 This was designed as a university project with a focus on elderly-centred UI/UX design. This app serves as a warning alert system for future fires and allows users to prevent deaths or fire-related injuries from happening. 
 
 ## I. Motivation
