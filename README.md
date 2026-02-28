@@ -39,17 +39,6 @@ background. Behind these considerations are reasons given by researchers which u
 Included in this report are four scenarios for the user interface of the elderly. The user interface of the carer is different from the user interface of the elderly. In the scenarios described below, the elderly-user is assumed to be a female senior citizen named Maria.
 
 ### Scenario 1: Fire Alert - Real Fire
-Patricia Ann La Madrid <patriciaalamadrid@gmail.com>
-	
-9:58 AM (21 minutes ago)
-	
-	
-to me
-## VI. Scenarios and Wireframe Design
-### 6.1 Scenarios
-Included in this report are four scenarios for the user interface of the elderly. The user interface of the carer is different from the user interface of the elderly. In the scenarios described below, the elderly-user is assumed to be a female senior citizen named Maria.
-
-### Scenario 1: Fire Alert - Real Fire
 ![Scenario 1: Fire Alert](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/wireframes/Scenario1.png)
 
 ### Scenario 2: Fire Alert - False Alarm
