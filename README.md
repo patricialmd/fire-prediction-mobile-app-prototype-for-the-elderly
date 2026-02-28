@@ -36,16 +36,33 @@ background. Behind these considerations are reasons given by researchers which u
 
 ## VI. Scenarios and Wireframe Design
 ### 6.1 Scenarios
+Included in this report are four scenarios for the user interface of the elderly. The user interface of the carer is different from the user interface of the elderly. In the scenarios described below, the elderly-user is assumed to be a female senior citizen named Maria.
+
 ### Scenario 1: Fire Alert - Real Fire
+Patricia Ann La Madrid <patriciaalamadrid@gmail.com>
+	
+9:58 AM (21 minutes ago)
+	
+	
+to me
+## VI. Scenarios and Wireframe Design
+### 6.1 Scenarios
+Included in this report are four scenarios for the user interface of the elderly. The user interface of the carer is different from the user interface of the elderly. In the scenarios described below, the elderly-user is assumed to be a female senior citizen named Maria.
+
+### Scenario 1: Fire Alert - Real Fire
+In this scenario, the user receives a notification of a fire in her house. She is alerted of imminent danger so she needs to evacuate; she has to go to the nearest exit, then proceed to the nearest emergency assembly area where she determines if there is a real fire or just a false alarm. If the fire is real and she arrives at the assembly area in less than two minutes, she calls the fire service. Otherwise, if it took her a longer time to get there, the app automatically calls the fire service. The elderly also checks the triggered alarm in her house to know the smoke level and temperature of the area where the fire is.
 ![Scenario 1: Fire Alert](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/wireframes/Scenario1.png)
 
 ### Scenario 2: Fire Alert - False Alarm
+This scenario is similar to scenario 1 with respect to the receipt of a fire notification by the elderly until she reaches the nearest emergency assembly area. The difference lies in the scenario that when she checks the status of the fire, there is no actual fire so she tests the sensor and camera to find out if these are functional. If these are not working, she calls the sensor and camera technician.
 ![Scenario 2: False Alarm](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/wireframes/Scenario2.png)
 
 ### Scenario 3: Daily Check-in Feature
+In this scenario, the elderly receives notification for daily check-in every 7:00 AM. She has to press the check-in button to answer six questions regarding fire safety in her home and she is reminded to keep a fire-safe environment at all times. She has to answer all the questions on or before 11:30 AM each day; if she fails to do so, somebody from the Wide Awake app will call her.
 ![Scenario 3: Daily Check-in](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/wireframes/Scenario3.png)
 
 ### Scenario 4: Fire Risk Assessment & Prevention Tips
+In this scenario, the user clicks the MORE tab for her to go to Fire Risk Assessment and Prevention Tips. If she finds the Fire Risk Assessment Page, she has to answer various General Fire Safety Questions and Process Fire Safety Questions. General Fire Safety Questions deal with Means of Detection, Means of Escape, and Management. On the other hand, Process Fire Safety Questions are focused on Ignition and Fuel. She can answer the questions with N/A, Unknown, Yes, No, or 0 Findings. If she completes answering the questions, the Status Page will appear showing how completely she answered the questions, date of creation and last date the Risk Assessment Page was modified. For the Fire Prevention Tips, she gets information on how fires can be prevented.
 ![Scenario 4: Risk Assessment](https://github.com/patricialmd/fire_prediction_app_prototype_elderly/blob/main/wireframes/Scenario4.png)
 
 ### 6.2 Wireframe Design
